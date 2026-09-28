@@ -1,0 +1,13 @@
+# Executables & Binaries
+*.exe
+*.o
+*.obj
+*.class
+
+# Temporary flags
+*terminal_proj_exit_flag.txt
+
+# OS / Editor files
+.vscode/
+.idea/
+*.swp
