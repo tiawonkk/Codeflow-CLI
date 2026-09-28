@@ -41,7 +41,7 @@ Ensure the following compilers and runtimes are installed on your Windows machin
 
 1. **Clone the repository:**
    ```powershell
-   git clone [https://github.com/](https://github.com/)<username>/codeflow-cli.git
+   git clone https://github.com/tiawonkk/Codeflow-CLI.git
    cd codeflow-cli
    ```
 
